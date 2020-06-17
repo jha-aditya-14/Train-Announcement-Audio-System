@@ -8,6 +8,7 @@ Inspiring from Indian Railways Announcement System, I made the similar announcem
 => pydub :- pip install pydub
 
 => pyaudio :- pip install pyaudio
+
 **####//If this not works download .whl (wheel file) from this site:- https://www.lfd.uci.edu/~gohlke/pythonlibs/ and use that file to install
 
 => gtts :- pip install gTTS
