@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 from pydub import AudioSegment
-from  pyaudio import *
+from pyaudio import *
 from gtts import gTTS
 
 def texttoSpeech(text,filename):
