@@ -2,7 +2,7 @@
 Inspiring from Indian Railways Announcement System, I made the similar announcement system but its mini version of it and I, build it using some intresting python packages 
 
 
-###=================Installation Packages Requirements ================
+### ===========Installation Packages Requirements ================
 
 
 => pydub :- pip install pydub
@@ -16,6 +16,8 @@ Inspiring from Indian Railways Announcement System, I made the similar announcem
 => pydub :- pip install pydub
 
 
-## Enjoy and expirence train announcement at home by executing my code ==================
+## Enjoy and expirence train announcement at home by executing my code 
+
+============================================
 
 
